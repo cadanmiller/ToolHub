@@ -1,2 +1,2 @@
 # ToolHub
-Like PornHub, but for IT Tools
+Like *Hub, but for IT Tools
